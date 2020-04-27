@@ -11,10 +11,10 @@ Mentioned above application was tested on a local machine, as well as, on AWS EM
 -----------
 ## Some thougths and assumptions about carried-out analysis
 
-Objectives
--Gathering meaningful insight from a data
--improve company performance 
--maximalize income
+### Objectives
+- Gathering meaningful insight from a data
+- improve company performance 
+- maximalize income
 - search for the fields of possible improvement and savings
 
 ### Observations and proposals
